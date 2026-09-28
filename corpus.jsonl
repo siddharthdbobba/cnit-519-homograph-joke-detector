@@ -1,0 +1,50 @@
+{"id":"J01","group":"joke","age":9,"text":"Why don't skeletons fight? Because they have no guts.","expected_homograph_joke":true}
+{"id":"J02","group":"joke","age":8,"text":"What kind of tree fits in your hand? A palm tree.","expected_homograph_joke":true}
+{"id":"J03","group":"joke","age":9,"text":"Why did the scarecrow win an award? Because he was outstanding in his field.","expected_homograph_joke":true}
+{"id":"J04","group":"joke","age":9,"text":"Why did the student eat the homework? The teacher said it was a piece of cake.","expected_homograph_joke":true}
+{"id":"J05","group":"joke","age":8,"text":"How do you make a tissue dance? You put a little boogie in it.","expected_homograph_joke":true}
+{"id":"J06","group":"joke","age":10,"text":"Why did the coffee call the police? It got mugged.","expected_homograph_joke":true}
+{"id":"J07","group":"joke","age":7,"text":"What did the ocean say to the beach? Nothing, it just waved.","expected_homograph_joke":true}
+{"id":"J08","group":"joke","age":8,"text":"Why did the tomato blush? It saw the salad dressing.","expected_homograph_joke":true}
+{"id":"J09","group":"joke","age":10,"text":"Why did the computer visit the doctor? It caught a virus.","expected_homograph_joke":true}
+{"id":"J10","group":"joke","age":8,"text":"Why couldn't the leopard hide? Because it was always spotted.","expected_homograph_joke":true}
+{"id":"J11","group":"joke","age":8,"text":"Why was the musician locked outside? It lost its keys.","expected_homograph_joke":true}
+{"id":"J12","group":"joke","age":8,"text":"Why was the math book sad? It had too many problems.","expected_homograph_joke":true}
+{"id":"J13","group":"joke","age":8,"text":"Why did the elephant bring a suitcase? It needed a trunk.","expected_homograph_joke":true}
+{"id":"J14","group":"joke","age":7,"text":"Why did the dog chase the tree? It heard its bark.","expected_homograph_joke":true}
+{"id":"J15","group":"joke","age":8,"text":"What kind of music do balloons hate? Pop.","expected_homograph_joke":true}
+{"id":"J16","group":"joke","age":10,"text":"Why did the chef go to the bank? To get some dough.","expected_homograph_joke":true}
+{"id":"J17","group":"joke","age":8,"text":"Why did the baseball player bring string? To tie the score.","expected_homograph_joke":true}
+{"id":"J18","group":"joke","age":8,"text":"Why did the painter wear two coats? The second was a coat of paint.","expected_homograph_joke":true}
+{"id":"J19","group":"joke","age":10,"text":"Why did the calendar get nervous? Its days were numbered.","expected_homograph_joke":true}
+{"id":"J20","group":"joke","age":8,"text":"What has an eye but cannot see? A needle.","expected_homograph_joke":true}
+{"id":"M01","group":"modified","age":9,"text":"Why do skeletons fight? Because they have no guts.","expected_homograph_joke":false}
+{"id":"M02","group":"modified","age":8,"text":"A palm tree grows beside the road.","expected_homograph_joke":false}
+{"id":"M03","group":"modified","age":9,"text":"The scarecrow stood in a field all day.","expected_homograph_joke":false}
+{"id":"M04","group":"modified","age":9,"text":"The teacher said the homework was difficult.","expected_homograph_joke":false}
+{"id":"M05","group":"modified","age":8,"text":"A tissue had a little boogie on it.","expected_homograph_joke":false}
+{"id":"M06","group":"modified","age":10,"text":"The coffee sat in a mug on the table.","expected_homograph_joke":false}
+{"id":"M07","group":"modified","age":7,"text":"A wave moved across the ocean.","expected_homograph_joke":false}
+{"id":"M08","group":"modified","age":8,"text":"The tomato was next to the salad dressing.","expected_homograph_joke":false}
+{"id":"M09","group":"modified","age":10,"text":"The computer virus corrupted its files.","expected_homograph_joke":false}
+{"id":"M10","group":"modified","age":8,"text":"A guide spotted the leopard near the river.","expected_homograph_joke":false}
+{"id":"M11","group":"modified","age":8,"text":"The musician played keys on the piano.","expected_homograph_joke":false}
+{"id":"M12","group":"modified","age":8,"text":"The math book contained ten problems.","expected_homograph_joke":false}
+{"id":"M13","group":"modified","age":8,"text":"The elephant raised its trunk to smell flowers.","expected_homograph_joke":false}
+{"id":"M14","group":"modified","age":7,"text":"The tree bark was rough.","expected_homograph_joke":false}
+{"id":"M15","group":"modified","age":8,"text":"Pop music played on the radio.","expected_homograph_joke":false}
+{"id":"M16","group":"modified","age":10,"text":"The chef made dough from flour.","expected_homograph_joke":false}
+{"id":"M17","group":"modified","age":8,"text":"The coach said the score was tied.","expected_homograph_joke":false}
+{"id":"M18","group":"modified","age":8,"text":"The painter applied another coat of paint.","expected_homograph_joke":false}
+{"id":"M19","group":"modified","age":10,"text":"The calendar listed numbered days.","expected_homograph_joke":false}
+{"id":"M20","group":"modified","age":8,"text":"The needle has an eye for thread.","expected_homograph_joke":false}
+{"id":"N01","group":"non_joke","age":8,"text":"The children played soccer in the field after school.","expected_homograph_joke":false}
+{"id":"N02","group":"non_joke","age":8,"text":"Maya put on her coat before walking outside.","expected_homograph_joke":false}
+{"id":"N03","group":"non_joke","age":8,"text":"The ocean had large waves during the storm.","expected_homograph_joke":false}
+{"id":"N04","group":"non_joke","age":8,"text":"A leopard has dark spots on its fur.","expected_homograph_joke":false}
+{"id":"N05","group":"non_joke","age":8,"text":"The math worksheet has five problems to solve.","expected_homograph_joke":false}
+{"id":"N06","group":"non_joke","age":8,"text":"The computer needs a new keyboard.","expected_homograph_joke":false}
+{"id":"N07","group":"non_joke","age":8,"text":"The baker put the bread dough in the oven.","expected_homograph_joke":false}
+{"id":"N08","group":"non_joke","age":8,"text":"The elephant used its trunk to pick up grass.","expected_homograph_joke":false}
+{"id":"N09","group":"non_joke","age":8,"text":"The nurse checked the child's temperature.","expected_homograph_joke":false}
+{"id":"N10","group":"non_joke","age":8,"text":"The family planted flowers in the garden.","expected_homograph_joke":false}
